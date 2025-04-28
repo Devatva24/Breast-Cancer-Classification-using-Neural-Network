@@ -132,7 +132,7 @@ Traditional diagnosis methods are time-consuming and prone to human error. A mac
   <li>Neural network achieved:
     <ul>
       <li>Accuracy above 95.8% on test data.</li>
-      <li>Loss 12.25%%, crucial for detecting malignant tumors.</li>
+      <li>Loss 12.25%, crucial for detecting malignant tumors.</li>
     </ul>
   </li>
 </ul>
